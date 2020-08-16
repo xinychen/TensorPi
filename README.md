@@ -1,4 +1,5 @@
 TensorPi
 -------------------
 
-Python library for low-rank tensor learning.
+Low-rank tensor learning with PyTorch.
+
